@@ -19,7 +19,7 @@
     height: 300px;
     width: 200px;
     background-color: blue;
-    /* display: inline-block; */
+    /* display: inline-block; */ /* removed this line of code and applied display:flex to the parent div */
     /* vertical-align: top; */
 }
 
@@ -27,7 +27,7 @@
     height: 400px;
     width: 700px;
     background-color: red;
-    /* display: inline-block; */
+    /* display: inline-block; */ /* removed this line of code and applied display:flex to the parent div */
     padding: 15px;
 }
 
@@ -35,7 +35,7 @@
     height: 200px;
     width: 210px;
     background-color: yellow;
-    /* display: inline-block; */
+    /* display: inline-block; */ /* removed this line of code and applied display:flex to the parent div */
 }
 
 #advertisement{
